@@ -1,0 +1,1 @@
+autocmd BufRead,BufNewFile known_hosts,ssh_known_hosts setlocal filetype=ssh_known_hosts
